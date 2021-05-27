@@ -1,4 +1,4 @@
-package exercise.algebra;
+package app.exercise.algebra;
 
 /**
  * Klasse Rational erbt von BasisFractions und beinhaltet Grundlegende Methoden zum Arbeiten mit Brüchen

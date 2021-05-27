@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RedBlackTreeDrawer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/app/lib/RedBlackTreeDrawer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,8 +1,8 @@
-package exercise.testing;
+package app.exercise.testing;
 
 import java.util.Stack;
 
-import exercise.algebra.Rational;
+import app.exercise.algebra.Rational;
 
 /**
  * Testklasse mit umgekehrter polnischer Notation

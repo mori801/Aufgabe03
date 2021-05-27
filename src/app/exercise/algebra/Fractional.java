@@ -1,4 +1,4 @@
-package exercise.algebra;
+package app.exercise.algebra;
 
 /**
  * Interface, welches Vorschriften zu Bruchoperationen bietet

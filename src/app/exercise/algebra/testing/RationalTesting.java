@@ -1,6 +1,6 @@
-package exercise.algebra.testing;
+package app.exercise.algebra.testing;
 
-import exercise.algebra.*;
+import app.exercise.algebra.*;
 
 /**
  * Testklasse für Rational

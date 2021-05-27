@@ -1,4 +1,4 @@
-package exercise.algebra;
+package app.exercise.algebra;
 
 /**
  * Beinhaltet die Implementation des Interface Fractional und Vorschrift zum Setzen von Zähler und Nenner
